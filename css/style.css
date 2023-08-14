@@ -1,0 +1,32 @@
+
+.bbb li :hover{
+    text-decoration:underline;
+    color: white;
+}
+header{
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0,0.7),rgba(0, 0, 0,0.7)) 
+    ,url(../image/background.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-top: 150px;
+}
+.padd{
+    padding-top: 500px;
+}
+.cccc{
+    margin: 20px auto;
+    border:solid 2px;
+}
+.sty{
+    font-size: 100px;
+    color: white;
+}
+.aaa{
+    border: solid 3px black;
+}
+.sty2{
+    font-size:50px;
+    color: white;
+
+}
